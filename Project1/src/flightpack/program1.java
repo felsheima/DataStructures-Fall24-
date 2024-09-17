@@ -120,3 +120,12 @@ public class program1 {
         void execute();
     }
 }
+/**
+ * @References
+ * Lee, Alex. “Java: Read a CSV File into an Array #49.” YouTube, YouTube, www.youtube.com/watch?v=-Aud0cDh-J8. Accessed 17 Sept. 2024. 
+ * Gupta, L. (14 September, 2022). Parse and Read a CSV File in Java. HowToDoInJava. https://howtodoinjava.com/java/io/parse-csv-files-in-java/
+ *Geeksforgeeks. (28 June, 2022). Reading a CSV file in java using OpenCSV. geeksforgeeks. https://www.geeksforgeeks.org/reading-csv-file-java-using-opencsv/
+ *Geeksforgeeks. (02 Sep, 2024). Arrays in Java. geeksforgeeks. https://www.geeksforgeeks.org/arrays-in-java/
+ *W3Schools. (n.d.). Java Constructors. W3Schools. https://www.w3schools.com/java/java_constructors.asp
+ * 
+ */
