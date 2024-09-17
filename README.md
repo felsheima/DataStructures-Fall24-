@@ -12,6 +12,9 @@ Professor: Dr. Behrooz Mansouri
 
 This repository will contain all of my homework submissions for Data Structures- Fall 2024.
 
+The following Projects are included in this repository:
+Project1
+
 To clone this repository, copy and paste the following commands:
 
 Linux CLI:
