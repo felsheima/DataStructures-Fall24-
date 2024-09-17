@@ -8,7 +8,7 @@ Semester: Fall 2024
 
 School: University of Southern Maine
 
-Professor: 
+Professor: Dr. Behrooz Mansouri 
 
 This repository will contain all of my homework submissions for Data Structures- Fall 2024.
 
